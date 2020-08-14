@@ -1,6 +1,6 @@
-# [submodule "themescactus"]
-# 	path = themescactus
-# 	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
-# [submodule "themes/themescactus"]
-# 	path = themes/themescactus
-# 	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
+[submodule "themescactus"]
+	path = themescactus
+	url = https://github.com/kalana-code/hugo-theme-cactus.git
+[submodule "themes/themescactus"]
+	path = themes/themescactus
+	url = https://github.com/kalana-code/hugo-theme-cactus.git
