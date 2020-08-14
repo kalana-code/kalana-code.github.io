@@ -6,7 +6,7 @@ date: 2016-08-24 17:51:42
 
 ![alt text](/images/Face.png)
 
-Github: [kalana-code](https://github.com/monkeyWzr)
+Github: [kalanaa-code](https://github.com/monkeyWzr)
 <br>
 Email: [kalanad@eng.pdn.ac.lk](kalanad@eng.pdn.ac.lk)
 
