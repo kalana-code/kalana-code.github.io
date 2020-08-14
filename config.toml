@@ -1,7 +1,7 @@
 baseURL = "https://kalanad.me/"
 languageCode = "en-us"
 title = "Kalana Dhananjaya"
-theme = "themescactus"
+theme = "cactus"
 
 
 copyright = "Kalana Dhananjaya" # cactus will use title if copyright is not set
